@@ -28,7 +28,21 @@ Table of Contents
 
 При запуске приложения, пользователя будет приветствовать загрузочный экран с логотипом.
 
-![alt Loading screen](Design/Design4.png "Loading screen")
+<img src="Design/Design4.png" width="300">
+
+Просмотр карты осуществляется во вкладке навигации.
+
+<img src="Design/Design1.png" width="300">
+
+Просмотр расписания общественного транспорта осуществляется во вкладке расписания.
+
+<img src="Design/Design2.png" width="300">
+
+<img src="Design/Design3.png" width="300">
+
+Поиск маршрутов осуществляется во вкладке маршрутов.
+
+<img src="Design/Design5.png" width="300">
 
 ### 2.3 Характеристики пользователей
 
